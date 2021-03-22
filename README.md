@@ -1,0 +1,2 @@
+# NemoBot-Newtons3Laws
+Simulates a virtual lesson about Newton's Three Laws through the Facebook Messenger-based chatbot NemoBot. The lesson plan is intended as a basic introduction to Newton's Three Laws including overviews and applications of the three laws as well as periodic quizzes throughout the lesson. The Javascript code was developed during summer 2020 internship with Nautilus Software Technologies, creator of NemoBot.
